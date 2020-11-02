@@ -4,7 +4,7 @@ You now know how to use the f-distribution to test whether the variances for two
 
 Let's start with an example of what we are trying to find out.  Consider the data in the table below:
 
-![](mytable.png)
+![](table.png)
 
 To generate the data in this table a farmer sewed 16 fields with cabbage plants.  Each of the numbers in the tables is thus the tonnage of cabbage that was harvested from a particular field.  The farmer fertilised the 16 fields in four different ways.  4 of the fields were fertilised with straw only.   4 fields were fertilized with a combination of straw and nitrate.   4 of the fields were fertilized with a combination of straw and phosphate.  The remaining fields were then fertilised with straw, nitrate and phosphate.  The farmer would like to determine if one of these fertiliser treatments was more effective than the others.  The farmer's hope is to determine how he should fertilise his fields next year in order to get the largest possible cabbage crop. 
 
